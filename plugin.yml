@@ -1,0 +1,21 @@
+name: GmPlayer
+version: 1.0
+author: KerritMine
+main: io.github.km.gm.Main
+commands:
+    0:
+      usage: /0 <player>
+      description: Gm0
+      aliases: [gm0]
+    1:
+      usage: /1 <player>
+      description: Gm1
+      aliases: [gm1]
+    2:
+      usage: /2 <player>
+      description: Gm2
+      aliases: [gm2]
+    3:
+      usage: /3 <player>
+      description: Gm3
+      aliases: [gm3]
